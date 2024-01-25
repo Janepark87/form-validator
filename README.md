@@ -4,7 +4,7 @@
 This project focuses on simple front-end form validation, enhancing user experience by providing real-time feedback on form input. The validation is primarily implemented using HTML attributes and CSS pseudo-classes like `:valid` or `:invalid`. Additionally, JavaScript is used to check password match dynamically.
 
 ## Demo
-Explore the [Demo Site](#) to see the front-end form validation in action.
+Explore the [Demo Site](https://janepark87.github.io/form-validator/) to see the front-end form validation in action.
 
 ## Features
 - **Form Validation**
